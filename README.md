@@ -1,4 +1,4 @@
-# Restaurant Page
+# Todo List
 
 It's the simple version that users can create, read, update and delete todo list.
 
